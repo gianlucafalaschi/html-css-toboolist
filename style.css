@@ -65,6 +65,12 @@ main {
 }
 /*/ buttons */
 
+/* bottom section */
+
+.bottom-section {
+    padding: 40px 50px;
+}
+
 .circle {
     display: inline-block;
     height: 20px;
@@ -97,4 +103,6 @@ main {
 .tag-blue {
     background-color: #45abea;
 }
+/* /bottom section */
+
 /*/ MAIN */
