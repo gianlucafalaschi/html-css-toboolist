@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
 body {
     font-family: "Roboto", sans-serif;
     background-color: #f6f8f9;
