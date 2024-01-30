@@ -24,3 +24,26 @@ header {
     vertical-align: middle;
 }
 /* APP HEADER */
+
+/* MAIN */
+.circle {
+    display: inline-block;
+    height: 20px;
+    width: 20px ;
+    border-radius: 100%;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 20px;
+    color:#64c0a9;
+}
+
+.circle-done {
+    color: #64c0a9;
+    border-color: #64c0a9;
+}
+
+.circle-danger {
+    color: #FF0000;
+    border-color: #FF0000;
+}
+/*/ MAIN */
