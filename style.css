@@ -116,15 +116,25 @@ main {
     background-color: #45abea;
 }
 
-.tag-purple {}
+.tag-purple {
+    background-color: #9c72e4;
+}
 
-.tag-green{}
+.tag-aqua{
+    background-color: #79c8b5;
+}
 
-.tag-orange {}
+.tag-orange {
+    background-color: #f29e33;
+}
 
-.tag-pink {}
+.tag-pink {
+    background-color: #db6fa9;
+}
 
-.tag-green {}
+.tag-green {
+    background-color: #b0c926;
+}
 
 
 /* /bottom section */
