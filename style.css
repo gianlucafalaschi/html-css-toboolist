@@ -46,4 +46,16 @@ header {
     color: #FF0000;
     border-color: #FF0000;
 }
+
+.tag {
+    display: inline-block;
+    background-color: red;
+    color: #ffffff;
+    padding:6px 10px;
+    border-radius:16px;
+}
+
+.tag-blue {
+    background-color: #45abea;
+}
 /*/ MAIN */
