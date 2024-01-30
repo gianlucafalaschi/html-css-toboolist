@@ -67,8 +67,19 @@ main {
 
 /* bottom section */
 
+
 .bottom-section {
     padding: 40px 50px;
+}
+
+.subtitle {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.line {
+    margin-top: 12px;
+    margin-bottom: 30px;
 }
 
 .circle {
@@ -93,6 +104,7 @@ main {
 }
 
 .tag {
+    font-size: 12px;
     display: inline-block;
     background-color: red;
     color: #ffffff;
