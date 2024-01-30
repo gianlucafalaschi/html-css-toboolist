@@ -7,7 +7,7 @@
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background-color: yellow;
+    background-color: #ffffff;
 }
 
 body {
@@ -32,6 +32,39 @@ header {
 /* APP HEADER */
 
 /* MAIN */
+main {
+    margin-top: 40px;
+}
+
+/* buttons */
+.top-section {
+    padding: 15px 50px 6px;
+    border-bottom:2px solid #f6f8f9;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #45abea;
+    padding: 8px 10px;
+    border-radius:5px;
+    border: none;
+    font-weight: bold;
+}
+
+.button-blue {
+    color: #ffffff;
+    background-color: #45abea;
+    border: none;
+    
+}
+
+.button-white {
+    color: lightgray;
+    background-color: #ffffff;
+    border:2px solid lightgray;
+}
+/*/ buttons */
+
 .circle {
     display: inline-block;
     height: 20px;
