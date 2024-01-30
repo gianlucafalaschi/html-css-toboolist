@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #f6f8f9;
+}
+
+/* APP HEADER */
+header {
+    background-color: #ffffff;
+    padding: 10px 20px;
+}
+
+.app-title {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.app-logo {
+    vertical-align: middle;
+}
+/* APP HEADER */
